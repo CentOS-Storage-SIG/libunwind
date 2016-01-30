@@ -1,2 +1,2 @@
 # libunwind
-dist-git like repository for libunwind
+dist-git-like repository for libunwind
